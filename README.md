@@ -3,4 +3,4 @@ A small step to start augmented reality using OpenCV. This project uses Opencv a
 More basic shapes can be drawn using this project.
 
 # VIDEO
-[LINK TO VIDEO](https://drive.google.com/file/d/1_hU0lfO2t-0xlDzwB-IaOkzTyaC2SPCT/view?usp=sharing)
+[LINK TO VIDEO](https://drive.google.com/file/d/1QVdVlBvz5nZvX7grknUuqvy5D-xiUVLV/view?usp=sharing)
